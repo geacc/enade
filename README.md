@@ -6,7 +6,7 @@ As provas originais estão organizadas em diretórios identificados pelo
 ano de aplicação (prova e gabarito). Note que em alguns anos existem mais
 de uma prova pois são referentes a cursos diferentes:
 
-* Arquivos iniciados com a letra **c** são da ciência da computação, bacharelado;
+* Arquivos iniciados com a letra **b** são da ciência da computação, bacharelado;
 * Arquivos iniciados com a letra **l** são da ciência da computação, licenciatura;
 * Arquivos iniciados com a letra **e** são da engenharia da computação;
 * Arquivos iniciados com a letra **s** são de sistemas de informação.
